@@ -4,9 +4,9 @@
  
  _This project aims to create an application for contractor workers in the Bay Area_
 
-THE TEAM OF THE PROJECT
+**THE TEAM OF THE PROJECT**
 
-  1. **Burak Keskin** 
+  1. Burak Keskin
   2. Asif Keynes
   3. Prakash Sanjit
   4. Joanna Chen
